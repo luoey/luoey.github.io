@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: luoey51@gmail.com
 description: "这里是 @Luoey洛亦 的个人博客，做一个自己人生的记录者！"
 keyword: "洛亦, Luoey洛亦, Luoey, 程熊, @luoey洛亦, 洛亦的博客, Luoey Blog, 博客, 个人网站"
-url: "https://chengxiong.me" # your host, for absolute URL
+url: "https://chengxiong.me" # your host, for absolute URL 未创建
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -53,7 +53,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: luoey
 
 # Netease settings
 netease_comment: false
@@ -64,7 +64,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: chengxiong.me
+ga_domain: chengxiong.me #未创建
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
